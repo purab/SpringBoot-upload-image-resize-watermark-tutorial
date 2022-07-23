@@ -2,6 +2,8 @@
 
 Run project using mvn spring-boot:run
 
+### Resize or adding watermark using core java 
+
 ![post man file upload](upload-watermark.png)
 
 ## Sample watermark
